@@ -1,2 +1,2 @@
-# projeto socila
+# projeto social
  projeto social
