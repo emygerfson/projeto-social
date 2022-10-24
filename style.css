@@ -10,7 +10,7 @@ html ,body{
     width: 100vw;
 }
 body{
-    background: url(../projeto-socila/imagens/fundo-madeira.jpg) no-repeat top center;
+    background: url(../projeto-social/imagens/fundo-madeira.jpg) no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
 }
